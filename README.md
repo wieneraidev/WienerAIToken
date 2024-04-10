@@ -1,0 +1,1 @@
+# Wiener AI Token contract
